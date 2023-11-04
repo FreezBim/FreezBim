@@ -5,3 +5,4 @@ if user == "ДА".lower():
 else:
     if user == "нет":
         print("гуляй значит")
+        print("караганда")
